@@ -1,0 +1,58 @@
+[*]
+[*] GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+[*] Fri Mar 10 09:30:22 2017
+[*]
+[dumpfile] "C:\Users\3adbo\Desktop\testing.dump"
+[savefile] "C:\Users\3adbo\Desktop\sim_gtk.gtkw"
+[timestart] 0
+[size] 1600 877
+[pos] -61 -61
+*-5.675658 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TB.
+[sst_width] 197
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 250
+@28
+TB.uut.SDA
+TB.uut.SCK
+TB.uut.busIsBusy
+@200
+-
+@22
+[color] 5
+TB.uut.PWM_INTERFACE[7:0]
+@24
+[color] 5
+TB.uut.eventCounter[4:0]
+@200
+-
+@c00022
+[color] 2
+TB.uut_1.PWM_INTERFACE[7:0]
+@28
+(0)TB.uut_1.PWM_INTERFACE[7:0]
+(1)TB.uut_1.PWM_INTERFACE[7:0]
+(2)TB.uut_1.PWM_INTERFACE[7:0]
+(3)TB.uut_1.PWM_INTERFACE[7:0]
+(4)TB.uut_1.PWM_INTERFACE[7:0]
+(5)TB.uut_1.PWM_INTERFACE[7:0]
+(6)TB.uut_1.PWM_INTERFACE[7:0]
+(7)TB.uut_1.PWM_INTERFACE[7:0]
+@1401200
+-group_end
+@24
+[color] 2
+TB.uut_1.eventCounter[4:0]
+@200
+-
+@23
+[color] 3
+TB.uut_2.PWM_INTERFACE[7:0]
+@25
+[color] 3
+TB.uut_2.eventCounter[4:0]
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
