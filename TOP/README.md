@@ -1,6 +1,6 @@
 #I2C/PWM interface
 
-This is the top module including the PWM, i2c slave
+This is the top module including the PWM, i2c slave [this is a prototype just to gain understaning about the big picture of the system]
 
 ###NOTES
 1- The PWM module is connected to the i2c slave output, but both circuits are not synchronized with each other, so far the design didn't include metastability handling 
