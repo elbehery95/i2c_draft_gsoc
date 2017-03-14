@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+[*] Tue Mar 14 07:07:15 2017
+[*]
+[dumpfile] "F:\Verilog projects\PWM tests\Github\waveform\testing.dump"
+[savefile] "F:\Verilog projects\PWM tests\Github\waveform\waveGTKW.gtkw"
+[timestart] 0
+[size] 1600 877
+[pos] -165 -165
+*-26.000000 128000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TB.
+[sst_width] 197
+[signals_width] 242
+[sst_expanded] 1
+[sst_vpaned_height] 250
+@24
+TB.uut_1.PWM_INTERFACE[7:0]
+TB.PWM_OUT_1
+@204
+-
+@24
+TB.uut_2.PWM_INTERFACE[7:0]
+TB.PWM_OUT_2
+@204
+-
+@24
+TB.uut_3.PWM_INTERFACE[7:0]
+TB.PWM_OUT_3
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0

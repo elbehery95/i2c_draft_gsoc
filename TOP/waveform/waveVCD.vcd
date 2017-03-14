@@ -1,0 +1,116 @@
+$date
+	Tue Mar 14 00:07:06 2017
+$end
+$version
+	GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+$end
+$timescale
+	1ps
+$end
+$scope module TB $end
+$var wire 1 ' PWM_OUT_3 $end
+$var wire 1 # PWM_OUT_1 $end
+$scope module uut_1 $end
+$var wire 8 " PWM_INTERFACE[7:0] $end
+$upscope $end
+$var wire 1 % PWM_OUT_2 $end
+$scope module uut_2 $end
+$var wire 8 $ PWM_INTERFACE[7:0] $end
+$upscope $end
+$scope module uut_3 $end
+$var wire 8 & PWM_INTERFACE[7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$dumpvars
+#0
+bx &
+0%
+0'
+0#
+bx "
+bx $
+#41000
+b1111111 "
+1#
+#98000
+1%
+b110010 $
+#155000
+b11001000 &
+1'
+#12926000
+0%
+#32638000
+0#
+#51326000
+0'
+#65406000
+1'
+1%
+1#
+#78462000
+0%
+#98174000
+0#
+#116862000
+0'
+#130942000
+1'
+1#
+1%
+#143998000
+0%
+#163710000
+0#
+#182398000
+0'
+#196478000
+1'
+1#
+1%
+#209534000
+0%
+#229246000
+0#
+#247934000
+0'
+#262014000
+1'
+1#
+1%
+#275070000
+0%
+#294782000
+0#
+#313470000
+0'
+#327550000
+1'
+1#
+1%
+#340606000
+0%
+#360318000
+0#
+#379006000
+0'
+#393086000
+1'
+1#
+1%
+#406142000
+0%
+#425854000
+0#
+#444542000
+0'
+#458622000
+1'
+1#
+1%
+#471678000
+0%
+#491390000
+0#
+#500000000
