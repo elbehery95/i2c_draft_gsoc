@@ -42,5 +42,5 @@ This is the waveform results
 
 ####NOTE: State 19 is the `notMe` state, where the slave ignore any transaction untill the bus is free again
 
-![state_diagram](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/TOP/Screenshots/BLOCK_DIAGRAM_enhanced.png)
+![state_diagram](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/screen_shot/state_diagram.png)
 
