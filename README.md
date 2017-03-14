@@ -1,15 +1,16 @@
-#I2C/PWM interface
+# I2C/PWM interface
 
 This is the top module including the PWM, i2c slave [this is a prototype just to gain understaning about the big picture of the system]
 
-###NOTES
+### NOTES
+
 1- The PWM module is connected to the i2c slave output, but both circuits are not synchronized with each other, so far the design didn't include metastability handling 
 
 2- The PWM module divide the input fast clock by `2^8 * 2^n *k`. Where `n` and `k` are given parameters during the module instantiation, and the output divided frequency is the PWM freq.
 
 3- The PWM module uses 8-bit resolution 
 
-#The module testbench
+# The module testbench
 
 First three I2cPWM interfaces are connected to an I2C bus, with a master setting each one duty cycle
 
