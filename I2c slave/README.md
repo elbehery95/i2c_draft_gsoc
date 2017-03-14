@@ -1,4 +1,5 @@
 #Very simple, low power I2C slave
+
 I am building this simple prototype to understand more about the project and get the mentor feedback, re-implement and enhance this thing more and more
 
 The module doesn't use an oversampling clock, instead its operated via the `SCK` input which makes it more power efficient than an oversampling clock version.
@@ -35,12 +36,12 @@ module TB ();
   ...
 ```
 This is the waveform results
-![wave](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/screen_shot/simulation_result.png)
+![wave](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/I2c%20slave/screen_shot/simulation_result.png)
 
 
 #State diagram representing this module 
 
 ####NOTE: State 19 is the `notMe` state, where the slave ignore any transaction untill the bus is free again
 
-![state_diagram](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/screen_shot/state_diagram.png)
+![state_diagram](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/I2c%20slave/screen_shot/state_diagram.png)
 
