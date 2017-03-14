@@ -41,7 +41,7 @@ This is the waveform results
 
 # State diagram representing this module 
 
-####NOTE: State 19 is the `notMe` state, where the slave ignore any transaction untill the bus is free again
+#### NOTE: State 19 is the `notMe` state, where the slave ignore any transaction untill the bus is free again
 
 ![state_diagram](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/I2c%20slave/screen_shot/state_diagram.png)
 
