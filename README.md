@@ -26,7 +26,7 @@ This is the waveform results
 
 ![ise](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/Top%20module/Screenshots/ISE.png)
 
-###System big picture from my point of view
+### System big picture from my point of view
 
 ![bd](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/Top%20module/Screenshots/BLOCK_DIAGRAM_enhanced.png)
 
