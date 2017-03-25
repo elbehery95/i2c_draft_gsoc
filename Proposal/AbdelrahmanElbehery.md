@@ -100,7 +100,7 @@ After i finished the course i decided to design the whole processor in Verilog a
 The design is posted on the course forum and many students started using and building upon it, 
 this was also a chance for me to enhance my knowledge and work on a project related to my field of study.
 
-## How can we get the best out of me as mentors and project coordinators
+## How can the mentors and project coordinators get the best out of me  
 The most important thing for me when working in a project is leaders/mentors feedback and discussion.
 I prefer the divide and conquer approach for solving/working on problems, so discussions and feedback make it very clear when working at the integration stage
 
