@@ -61,7 +61,7 @@ but this might be changed if any of the leaders/mentors suggested another more e
 
 **A high level diagram of the fan controller**
 
-![Component Diagram](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/Proposal/CTRL_TOP_3.png)
+![Component Diagram](https://github.com/ELBe7ery/i2c_draft_gsoc/blob/master/Proposal/CTRL_TOP_4.png)
 
 ## Schedule 
 
